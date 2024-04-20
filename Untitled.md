@@ -1,4 +1,4 @@
 ```todoist  
-filter: "today | overdue"  
+filter: ""  
 autorefresh: 120  
 ```
