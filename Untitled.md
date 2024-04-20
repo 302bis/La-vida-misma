@@ -1,6 +1,4 @@
 ```todoist  
-filter: "Diana"  
-show:  
-- due  
-- project  
+filter: "today | overdue"  
+autorefresh: 120  
 ```
