@@ -1,5 +1,5 @@
 ```todoist  
-filter: "Mis Cosas"  
+filter: "Diana"  
 show:  
 - due  
 - project  
