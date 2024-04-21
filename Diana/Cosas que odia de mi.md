@@ -1,2 +1,4 @@
 - [ ] Que chifle
-- [ ] 
+- [ ] Que cante
+- [ ] Que choque el tenedor o la cuchara con mis dientes 
+- [ ] Que todo
