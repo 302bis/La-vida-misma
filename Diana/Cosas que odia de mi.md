@@ -1,4 +1,7 @@
 - [ ] Que chifle
 - [ ] Que cante
 - [ ] Que choque el tenedor o la cuchara con mis dientes 
-- [ ] Que todo
+- [ ] Que ruido cuando como
+- [ ] La forma en que hablo 
+- [ ] Mis dientes
+- [ ] Que hable como 
